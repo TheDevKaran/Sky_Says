@@ -1,20 +1,29 @@
-<<<<<<< HEAD
-# Sky_Says
-=======
-# weather_app
+Weather App
+This Flutter project is a weather application that provides current weather information for a given location and also for the cities that we will search . The app utilizes the WeatherAPI to fetch real-time weather data.
 
-A new Flutter project.
+Features
+Display current weather conditions, including temperature, location, and weather icon.
+Search for weather information by city.
 
-## Getting Started
+Getting Started
+Follow the steps below to run the Weather App on your local machine:
 
-This project is a starting point for a Flutter application.
+Prerequisites
+Flutter SDK installed on your machine.
+An IDE such as Visual Studio Code or Android Studio.
+Clone the Repository
+git clone https://github.com/your-username/weather-app.git
+cd weather-app
 
-A few resources to get you started if this is your first Flutter project:
+Install Dependencies
+flutter pub get
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Run the App
+Connect your mobile device or start an emulator, then run the app:
+flutter run
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> dca4050 (first commit)
+If you encounter any issues, make sure to check the Flutter documentation for troubleshooting.
+
+
+Acknowledgments
+Thanks to home.openweathermap.org for providing the API and weather data.
