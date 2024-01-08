@@ -12,7 +12,7 @@ Prerequisites
 Flutter SDK installed on your machine.
 An IDE such as Visual Studio Code or Android Studio.
 Clone the Repository
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/the_dev_karan/Sky_Says.git
 cd weather-app
 
 Install Dependencies
